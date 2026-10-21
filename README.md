@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/scramjet-flowpath-explainer/
 
+Repository: https://github.com/mizcausevic-dev/scramjet-flowpath-explainer
+
 ## What this is
 
 An interactive anatomy plate for Scramjet Flowpath. Play, scrub, or jump the five stages. The same frame always draws the same picture.
